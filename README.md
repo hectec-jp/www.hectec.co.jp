@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 株式会社HECTeC
 
-You can use the [editor on GitHub](https://github.com/hectec-jp/www.hectec.co.jp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 会社概要
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|  |  |
+| --- | --- |
+| 和文商号 | 株式会社HECTeC（ヘクテック） |
+| 英文商号 | HECTeC, Inc. |
+| 法人番号 | 登記申請中 |
+| 本店所在地 | 〒815-0031　福岡県福岡市南区清水3丁目11番20号 |
+| 設立年月日 | 2021年1月25日（予定） |
+| 資本金 | 100万円 |
+| 従業員数 | 3人 |
 
-### Markdown
+### 事業内容
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 不動産の所有
+- 不動産の管理、メンテナンス
+- 会社経営コンサルティング
+- 企業情報システムに関するコンサルティング
 
-```markdown
-Syntax highlighted code block
+### 役員一覧
 
-# Header 1
-## Header 2
-### Header 3
+|  |  |
+| --- | --- |
+| 代表取締役社長（CEO） | 東　昭太朗（Shotaro HIGASHI） |
 
-- Bulleted
-- List
+### お問い合わせ
 
-1. Numbered
-2. List
+当社に対するお問い合わせは、下記リンクのフォームよりお願いいたします。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hectec-jp/www.hectec.co.jp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+お問い合わせフォーム：https://docs.google.com/forms/
